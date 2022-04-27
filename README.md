@@ -9,23 +9,23 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/caioperess/goBarber_web?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/caioperess/goBarberWeb?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/caioperess/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-%20caio%20peres-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caioperess/goBarber_web?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caioperess/goBarberWeb?color=%23FF9000">
 
-  <a href="https://github.com/caioperess/goBarber_web/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caioperess/goBarber_web?color=%23FF9000">
+  <a href="https://github.com/caioperess/goBarberWeb/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caioperess/goBarberWeb?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/caioperess/goBarber_web/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/caioperess/goBarber_web?color=%23FF9000">
+  <a href="https://github.com/caioperess/goBarberWeb/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/caioperess/goBarberWeb?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/caioperess/goBarber_web?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/caioperess/goBarberWeb?color=%23FF9000">
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/caioperess/goBarber_web.git && cd goBarber_web
+$ git clone https://github.com/caioperess/goBarberWeb.git && cd goBarberWeb
 ```
 
 **Follow the steps below**
@@ -98,14 +98,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork caioperess/goBarber_web
+$ gh repo fork caioperess/goBarberWeb
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd goBarber_web
+$ git clone your-fork-url && cd goBarberWeb
 
 # Create a branch with your feature
 $ git checkout -b my-feature
